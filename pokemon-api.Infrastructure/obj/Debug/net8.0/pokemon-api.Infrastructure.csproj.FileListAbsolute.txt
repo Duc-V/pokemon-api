@@ -1,0 +1,17 @@
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Infrastructure.deps.json
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Infrastructure.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Infrastructure.pdb
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.AssemblyInfo.cs
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\refint\pokemon-api.Infrastructure.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.pdb
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\ref\pokemon-api.Infrastructure.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Application.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Domain.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Application.pdb
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Domain.pdb
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-.980B270B.Up2Date

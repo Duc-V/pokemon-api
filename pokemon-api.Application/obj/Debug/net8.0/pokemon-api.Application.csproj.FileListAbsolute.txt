@@ -1,0 +1,15 @@
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\bin\Debug\net8.0\pokemon-api.Application.deps.json
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\bin\Debug\net8.0\pokemon-api.Application.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\bin\Debug\net8.0\pokemon-api.Application.pdb
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.AssemblyInfoInputs.cache
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.AssemblyInfo.cs
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\refint\pokemon-api.Application.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.pdb
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\ref\pokemon-api.Application.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\bin\Debug\net8.0\pokemon-api.Domain.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\bin\Debug\net8.0\pokemon-api.Domain.pdb
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.csproj.AssemblyReference.cache
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-.DE098B30.Up2Date
