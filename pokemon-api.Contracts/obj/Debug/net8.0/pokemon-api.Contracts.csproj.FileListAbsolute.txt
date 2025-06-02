@@ -9,3 +9,4 @@ C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\refint\pokemon-api.Contracts.dll
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.pdb
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\ref\pokemon-api.Contracts.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.sourcelink.json

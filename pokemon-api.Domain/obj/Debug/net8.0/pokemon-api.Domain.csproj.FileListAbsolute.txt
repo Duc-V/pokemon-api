@@ -9,3 +9,4 @@ C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\refint\pokemon-api.Domain.dll
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.pdb
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\ref\pokemon-api.Domain.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.sourcelink.json

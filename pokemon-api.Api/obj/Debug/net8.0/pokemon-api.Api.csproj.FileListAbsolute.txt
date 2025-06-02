@@ -41,3 +41,15 @@ C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\pokemon-api.In
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\pokemon-api.Domain.pdb
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\pokemon-api.Api.sourcelink.json
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

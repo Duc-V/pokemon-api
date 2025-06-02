@@ -15,3 +15,4 @@ C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pok
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\bin\Debug\net8.0\pokemon-api.Domain.pdb
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-.980B270B.Up2Date
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Infrastructure\obj\Debug\net8.0\pokemon-api.Infrastructure.sourcelink.json

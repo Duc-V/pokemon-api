@@ -13,3 +13,4 @@ C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\bin\Debug\net8.0\pokemo
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\bin\Debug\net8.0\pokemon-api.Domain.pdb
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.csproj.AssemblyReference.cache
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-.DE098B30.Up2Date
+C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Application\obj\Debug\net8.0\pokemon-api.Application.sourcelink.json

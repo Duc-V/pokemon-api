@@ -1,5 +1,6 @@
 using pokemon_api.Application;
 using pokemon_api.Application.Services.Authentication;
+using Microsoft.Extensions.Configuration;
 using pokemon_api.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
     builder.Services.AddSwaggerGen();
     builder.Services
         .AddApplication()
-        .AddInfrastructure();
+        .AddInfrastructure(builder.Configuration);
 }
 
 
