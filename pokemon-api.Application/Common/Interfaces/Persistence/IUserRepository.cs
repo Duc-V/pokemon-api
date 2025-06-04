@@ -1,6 +1,9 @@
-﻿namespace pokemon_api.Application.Common.Interfaces.Persistence;
+﻿using pokemon_api.Domain.Entities;
 
-public class IUserRepository
+namespace pokemon_api.Application.Common.Interfaces.Persistence;
+
+public interface IUserRepository
 {
-    
+    User? GetUserByEmail(string email);
+    void AddUser(User user);
 }

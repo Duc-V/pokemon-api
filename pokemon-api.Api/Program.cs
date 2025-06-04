@@ -1,6 +1,8 @@
+using Microsoft.AspNetCore.Mvc.Infrastructure;
 using pokemon_api.Application;
 using pokemon_api.Application.Services.Authentication;
 using Microsoft.Extensions.Configuration;
+using pokemon_api.Api.Errors;
 using pokemon_api.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
     builder.Services
         .AddApplication()
         .AddInfrastructure(builder.Configuration);
+    builder.Services.AddSingleton<ProblemDetailsFactory, CustomProblemDetailsFactory>();
 }
 
 
@@ -21,7 +24,7 @@ var app = builder.Build();
         app.UseSwagger();
         app.UseSwaggerUI();
     }
-
+    app.UseExceptionHandler("/error");
     app.UseHttpsRedirection();
     app.MapControllers();
     app.Run();

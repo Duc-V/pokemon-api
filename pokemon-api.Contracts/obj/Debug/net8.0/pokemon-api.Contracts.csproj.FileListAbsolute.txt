@@ -10,3 +10,15 @@ C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\refint\p
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.pdb
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\ref\pokemon-api.Contracts.dll
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.sourcelink.json
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\bin\Debug\net8.0\pokemon-api.Contracts.deps.json
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\bin\Debug\net8.0\pokemon-api.Contracts.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\bin\Debug\net8.0\pokemon-api.Contracts.pdb
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.AssemblyInfoInputs.cache
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.AssemblyInfo.cs
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.sourcelink.json
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\refint\pokemon-api.Contracts.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\pokemon-api.Contracts.pdb
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Contracts\obj\Debug\net8.0\ref\pokemon-api.Contracts.dll

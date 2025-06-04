@@ -1,12 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ErrorOr;
 using pokemon_api.Application.Services.Authentication;
 using pokemon_api.Contracts.Authentication;
+using static pokemon_api.Api.Controllers.ApiController;
 
 namespace pokemon_api.Api.Controllers;
 
 [ApiController]
 [Route("auth")]
-public class AuthenticationController: ControllerBase
+public class AuthenticationController: ApiController
 {
     
     private readonly IAuthenticationService _authenticationService;
@@ -20,29 +22,40 @@ public class AuthenticationController: ControllerBase
     [HttpPost("register")]
     public IActionResult Register([FromBody] RegisterRequest request)
     {   
-        var authResult = _authenticationService.Register(request.FirstName, request.LastName, request.Email, request.Password);
-        var response = new AuthenticationResponse(
-            authResult.Id,
-            authResult.FirstName,
-            authResult.LastName,
-            authResult.Email,
-            authResult.Token
-        );
-        return Ok(response);
+        ErrorOr<AuthenticationResult> authResult = _authenticationService.Register(
+            request.FirstName,
+            request.LastName, 
+   request.Email,
+            request.Password);
+
+        return authResult.Match(
+            authResult => Ok(authResult),
+            errors => Problem(errors));
     }
+    
 
     [HttpPost("login")]
     public IActionResult Login([FromBody] LoginRequest request)
     {
         
         var authResult = _authenticationService.Login(request.Email, request.Password);
-        var response = new AuthenticationResponse(
-            authResult.Id,
-            authResult.FirstName,
-            authResult.LastName,
-            authResult.Email,
+        
+        ErrorOr<AuthenticationResult> authResult2 = _authenticationService.Login(request.Email, request.Password);
+        
+        return authResult.Match(
+            authResult => Ok(authResult),
+            errors => Problem(errors));
+    }
+    
+    
+    private static AuthenticationResponse MapAuthResult(AuthenticationResult authResult)
+    {
+        return new AuthenticationResponse(
+            authResult.User.Id,
+            authResult.User.FirstName,
+            authResult.User.LastName,
+            authResult.User.Email,
             authResult.Token
         );
-        return Ok(response);    
     }
 }

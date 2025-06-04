@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QcbthktyIko=",
+  "dgSpecHash": "fdBXh1T49QI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj",
+  "projectFilePath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Duc\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Duc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
     "C:\\Users\\Duc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
   ],

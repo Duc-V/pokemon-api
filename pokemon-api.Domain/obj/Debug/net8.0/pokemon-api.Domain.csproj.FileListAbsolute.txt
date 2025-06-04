@@ -10,3 +10,16 @@ C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\refint\poke
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.pdb
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\ref\pokemon-api.Domain.dll
 C:\Users\Duc\Desktop\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.sourcelink.json
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\bin\Debug\net8.0\pokemon-api.Domain.deps.json
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\bin\Debug\net8.0\pokemon-api.Domain.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\bin\Debug\net8.0\pokemon-api.Domain.pdb
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.AssemblyInfoInputs.cache
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.AssemblyInfo.cs
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.sourcelink.json
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\refint\pokemon-api.Domain.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.pdb
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\ref\pokemon-api.Domain.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Domain\obj\Debug\net8.0\pokemon-api.Domain.csproj.AssemblyReference.cache

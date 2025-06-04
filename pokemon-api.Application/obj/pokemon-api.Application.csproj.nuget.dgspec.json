@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj": {}
+    "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj": {
+    "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj",
         "projectName": "pokemon-api.Application",
-        "projectPath": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj",
+        "projectPath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Application\\pokemon-api.Application.csproj",
         "packagesPath": "C:\\Users\\Duc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Application\\obj\\",
+        "outputPath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Duc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj": {
-                "projectPath": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj"
+              "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj": {
+                "projectPath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj"
               }
             }
           }
@@ -41,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -68,26 +75,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj": {
+    "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj",
         "projectName": "pokemon-api.Domain",
-        "projectPath": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj",
+        "projectPath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Domain\\pokemon-api.Domain.csproj",
         "packagesPath": "C:\\Users\\Duc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Duc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,11 +118,18 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -126,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

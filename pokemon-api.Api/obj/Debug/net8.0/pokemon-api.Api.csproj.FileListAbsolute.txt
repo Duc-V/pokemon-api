@@ -111,3 +111,4 @@ C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\refint\p
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\pokemon-api.Api.pdb
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\pokemon-api.Api.genruntimeconfig.cache
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\ref\pokemon-api.Api.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\ErrorOr.dll

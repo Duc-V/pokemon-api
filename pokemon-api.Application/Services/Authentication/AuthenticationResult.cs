@@ -1,9 +1,8 @@
-﻿namespace pokemon_api.Application.Services.Authentication;
+﻿using pokemon_api.Domain.Entities;
+
+namespace pokemon_api.Application.Services.Authentication;
 
 public record AuthenticationResult(
-    Guid Id,
-    string FirstName,
-    string LastName,
-    string Email,
+    User User,
     string Token
 );
