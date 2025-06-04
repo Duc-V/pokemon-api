@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pokemon-api.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+442f532f25683a1223f3595bd1bf1c8181d9163d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fcc0c7b1ff37c73c826c1b7374324bfd85d275d")]
 [assembly: System.Reflection.AssemblyProductAttribute("pokemon-api.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pokemon-api.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

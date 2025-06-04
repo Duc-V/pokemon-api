@@ -230,17 +230,26 @@
           "pokemon-api.Domain": "1.0.0"
         },
         "runtime": {
-          "pokemon-api.Application.dll": {}
+          "pokemon-api.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "pokemon-api.Contracts/1.0.0": {
         "runtime": {
-          "pokemon-api.Contracts.dll": {}
+          "pokemon-api.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "pokemon-api.Domain/1.0.0": {
         "runtime": {
-          "pokemon-api.Domain.dll": {}
+          "pokemon-api.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "pokemon-api.Infrastructure/1.0.0": {
@@ -251,7 +260,10 @@
           "pokemon-api.Application": "1.0.0"
         },
         "runtime": {
-          "pokemon-api.Infrastructure.dll": {}
+          "pokemon-api.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

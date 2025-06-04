@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGThRBlu7Zk=",
+  "dgSpecHash": "RZ3ETeL1ZS8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duc\\Desktop\\pokemon-api\\pokemon-api.Api\\pokemon-api.Api.csproj",
+  "projectFilePath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Api\\pokemon-api.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.16\\microsoft.aspnetcore.openapi.8.0.16.nupkg.sha512",
     "C:\\Users\\Duc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
