@@ -114,3 +114,6 @@ C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\ErrorOr.
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\MediatR.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.AspNetCore.Mvc.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Mapster.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
