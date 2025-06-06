@@ -65,7 +65,6 @@ C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsof
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
@@ -112,3 +111,6 @@ C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\pokemon-
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\pokemon-api.Api.genruntimeconfig.cache
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\obj\Debug\net8.0\ref\pokemon-api.Api.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\ErrorOr.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.AspNetCore.Mvc.dll

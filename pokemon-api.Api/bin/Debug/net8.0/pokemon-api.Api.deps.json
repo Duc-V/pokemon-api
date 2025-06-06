@@ -27,6 +27,37 @@
           }
         }
       },
+      "MediatR/12.5.0": {
+        "dependencies": {
+          "MediatR.Contracts": "2.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.5"
+        },
+        "runtime": {
+          "lib/net6.0/MediatR.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.5.0.0"
+          }
+        }
+      },
+      "MediatR.Contracts/2.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.AspNetCore.Mvc/4.0.1": {
+        "dependencies": {
+          "MediatR": "12.5.0"
+        },
+        "runtime": {
+          "lib/net6.0/MediatR.Extensions.Microsoft.AspNetCore.Mvc.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
       "Microsoft.AspNetCore.OpenApi/8.0.16": {
         "dependencies": {
           "Microsoft.OpenApi": "1.6.14"
@@ -68,17 +99,6 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Configuration.Binder.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.525.21509"
-          }
-        }
-      },
-      "Microsoft.Extensions.DependencyInjection/9.0.5": {
-        "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.5"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.DependencyInjection.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.525.21509"
           }
@@ -234,7 +254,8 @@
       },
       "pokemon-api.Application/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "9.0.5",
+          "MediatR.Extensions.Microsoft.AspNetCore.Mvc": "4.0.1",
+          "MediatR": "12.5.0",
           "pokemon-api.Domain": "1.0.0"
         },
         "runtime": {
@@ -292,6 +313,27 @@
       "path": "erroror/2.0.1",
       "hashPath": "erroror.2.0.1.nupkg.sha512"
     },
+    "MediatR/12.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vqm2H8/nqL5NAJHPhsG1JOPwfkmbVrPyh4svdoRzu+uZh6Ex7PRoHBGsLYC0/RWCEJFqD1ohHNpteQvql9OktA==",
+      "path": "mediatr/12.5.0",
+      "hashPath": "mediatr.12.5.0.nupkg.sha512"
+    },
+    "MediatR.Contracts/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "path": "mediatr.contracts/2.0.1",
+      "hashPath": "mediatr.contracts.2.0.1.nupkg.sha512"
+    },
+    "MediatR.Extensions.Microsoft.AspNetCore.Mvc/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PhpNudCJn1TzoMp8aS7qpCIOq433Hk5aJHPEl1Esdt2rd1Cne7luhgcrfKU1j46Rrg6/AeoajS/oYssg21brgQ==",
+      "path": "mediatr.extensions.microsoft.aspnetcore.mvc/4.0.1",
+      "hashPath": "mediatr.extensions.microsoft.aspnetcore.mvc.4.0.1.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.OpenApi/8.0.16": {
       "type": "package",
       "serviceable": true,
@@ -326,13 +368,6 @@
       "sha512": "sha512-7pQ4Tkyofm8DFWFhqn9ZmG8qSAC2VitWleATj5qob9V9KtoxCVdwRtmiVl/ha3WAgjkEfW++JLWXox9MJwMgkg==",
       "path": "microsoft.extensions.configuration.binder/9.0.5",
       "hashPath": "microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512"
-    },
-    "Microsoft.Extensions.DependencyInjection/9.0.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-N1Mn0T/tUBPoLL+Fzsp+VCEtneUhhxc1//Dx3BeuQ8AX+XrMlYCfnp2zgpEXnTCB7053CLdiqVWPZ7mEX6MPjg==",
-      "path": "microsoft.extensions.dependencyinjection/9.0.5",
-      "hashPath": "microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.5": {
       "type": "package",

@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 using pokemon_api.Application;
-using pokemon_api.Application.Services.Authentication;
-using Microsoft.Extensions.Configuration;
 using pokemon_api.Api.Errors;
 using pokemon_api.Infrastructure;
 

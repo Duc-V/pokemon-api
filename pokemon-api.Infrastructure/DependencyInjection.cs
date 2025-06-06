@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using pokemon_api.Application.Common.Interfaces.Authentication;
-using pokemon_api.Application.Services.Authentication;
 using pokemon_api.Infrastructure.Authentication;
 using Microsoft.Extensions.Configuration;
 using pokemon_api.Application.Common.Interfaces.Persistence;
