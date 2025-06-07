@@ -38,6 +38,7 @@ public class ValidationBehaviour<TRequest, TResponse> :
             return await next();
         }
         
+        // convert validator errors into ErrorOr Validation error type
         var errrors = validationResult.Errors
             .ConvertAll(validationFailure => Error.Validation(
                 validationFailure.PropertyName,
