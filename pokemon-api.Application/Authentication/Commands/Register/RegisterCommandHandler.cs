@@ -21,11 +21,12 @@ public class RegisterCommandHandler: // Inherit IRequest handler, handle Registe
         _jwtTokenGenerator = jwtTokenGenerator;
     }
 
-    public Task<ErrorOr<AuthenticationResult>> Handle(RegisterCommand command, CancellationToken cancellationToken)
+    public async Task<ErrorOr<AuthenticationResult>> Handle(RegisterCommand command, CancellationToken cancellationToken)
     {
+        await Task.CompletedTask;
         if (_userRepository.GetUserByEmail(command.Email) != null)
         {
-            return Task.FromResult<ErrorOr<AuthenticationResult>>(Errors.User.DuplicatedEmail);
+            return Errors.User.DuplicatedEmail;
         }
         // Create a user
         var user = new User {
@@ -39,7 +40,7 @@ public class RegisterCommandHandler: // Inherit IRequest handler, handle Registe
         // Create Jwt token
         var token = _jwtTokenGenerator.GenerateToken(user);
         
-        return Task.FromResult<ErrorOr<AuthenticationResult>>(new AuthenticationResult(user, token)); 
+        return new AuthenticationResult(user, token); 
 
     }
 }

@@ -20,22 +20,24 @@ public class LoginQueryHandler:
         _userRepository = userRepository;
     }
     
-    public Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery query, CancellationToken cancellationToken)
-    {
+    public async Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery query, CancellationToken cancellationToken)
+    {   
+        await Task.CompletedTask;
+        
         if (_userRepository.GetUserByEmail(query.Email) is not User user)
         {
-            return Task.FromResult<ErrorOr<AuthenticationResult>>(Errors.Authentication.InvalidCredentials);
+            return Errors.Authentication.InvalidCredentials;
         }
 
         if (user.Password != query.Password)
         {
-            return Task.FromResult<ErrorOr<AuthenticationResult>>(Errors.Authentication.InvalidCredentials);
+            return Errors.Authentication.InvalidCredentials;
         }
         
         var token = _jwtTokenGenerator.GenerateToken(user);
         
         
-        return Task.FromResult<ErrorOr<AuthenticationResult>>(new AuthenticationResult(user, token));
+        return new AuthenticationResult(user, token);
 
     }
 }

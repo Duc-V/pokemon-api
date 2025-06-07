@@ -117,3 +117,6 @@ C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\MediatR.
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Mapster.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Mapster.Core.dll
 C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Duc\RiderProjects\pokemon-api\pokemon-api.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

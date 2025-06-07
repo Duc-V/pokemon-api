@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ljQrdk3Blio=",
+  "dgSpecHash": "6GTIKUrx85c=",
   "success": true,
   "projectFilePath": "C:\\Users\\Duc\\RiderProjects\\pokemon-api\\pokemon-api.Api\\pokemon-api.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duc\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Duc\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Duc\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\Duc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\Duc\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\Duc\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\Duc\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
