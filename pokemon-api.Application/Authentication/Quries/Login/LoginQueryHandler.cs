@@ -1,12 +1,12 @@
-﻿using MediatR;
-using ErrorOr;
+﻿using ErrorOr;
+using MediatR;
 using pokemon_api.Application.Authentication.Common;
 using pokemon_api.Application.Common.Interfaces.Authentication;
 using pokemon_api.Application.Common.Interfaces.Persistence;
 using pokemon_api.Domain.Common.Errors;
 using pokemon_api.Domain.Entities;
 
-namespace pokemon_api.Application.Authentication.Query.Login;
+namespace pokemon_api.Application.Authentication.Quries.Login;
 
 public class LoginQueryHandler:
     IRequestHandler<LoginQuery,ErrorOr<AuthenticationResult>>

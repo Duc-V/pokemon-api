@@ -1,7 +1,7 @@
 ﻿using Mapster;
 using pokemon_api.Application.Authentication.Commands.Register;
 using pokemon_api.Application.Authentication.Common;
-using pokemon_api.Application.Authentication.Query.Login;
+using pokemon_api.Application.Authentication.Quries.Login;
 using pokemon_api.Contracts.Authentication;
 
 namespace pokemon_api.Api.Common.Mapping;

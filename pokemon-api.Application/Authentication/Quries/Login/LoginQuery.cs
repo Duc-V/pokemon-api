@@ -2,7 +2,7 @@
 using MediatR;
 using pokemon_api.Application.Authentication.Common;
 
-namespace pokemon_api.Application.Authentication.Query.Login;
+namespace pokemon_api.Application.Authentication.Quries.Login;
 
 public record LoginQuery(
         string Email,

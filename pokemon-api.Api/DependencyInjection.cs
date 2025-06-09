@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.Infrastructure;
+using pokemon_api.Api.Common.Errors;
 using pokemon_api.Api.Common.Mapping;
-using pokemon_api.Api.Errors;
 
 namespace pokemon_api.Api;
 

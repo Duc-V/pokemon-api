@@ -1,10 +1,12 @@
 ﻿using ErrorOr;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using pokemon_api.Api.Common.Http;
 
 namespace pokemon_api.Api.Controllers;
 
+[Authorize]
 public class ApiController: ControllerBase
 {
     protected IActionResult Problem(List<Error> errors)

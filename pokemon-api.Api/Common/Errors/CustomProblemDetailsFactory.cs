@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Options;
 using pokemon_api.Api.Common.Http;
 
-namespace pokemon_api.Api.Errors;
+namespace pokemon_api.Api.Common.Errors;
 
 public sealed class CustomProblemDetailsFactory : ProblemDetailsFactory
 {
