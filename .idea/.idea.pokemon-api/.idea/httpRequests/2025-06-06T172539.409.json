@@ -1,0 +1,10 @@
+{
+  "type": "https://tools.ietf.org/html/rfc9110#section-15.5.10",
+  "title": "Conflict",
+  "status": 409,
+  "detail": "Email is already in use",
+  "traceId": "00-d6f7628a921a3f2b60c9bc0259d1349b-3923a4cf3a0e051e-00",
+  "errorCodes": [
+    "User.DuplicateEmail"
+  ]
+}

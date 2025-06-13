@@ -1,0 +1,10 @@
+{
+  "user": {
+    "id": "0490ad68-4cd0-45a5-91a0-df575433854c",
+    "firstName": "Duc",
+    "lastName": "Vu",
+    "email": "test@gmail.com",
+    "password": "test123fdsafdafsafdafd"
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwNDkwYWQ2OC00Y2QwLTQ1YTUtOTFhMC1kZjU3NTQzMzg1NGMiLCJnaXZlbl9uYW1lIjoiRHVjIiwiZmFtaWx5X25hbWUiOiJWdSIsImp0aSI6IjNjMDc1NDI1LWI4NWEtNDZjYi05YmVmLWQzNWQxZTdlZDViOSIsImV4cCI6MTc0OTAzMDM1MywiaXNzIjoiQXBpSXNzdXNzZXIiLCJhdWQiOiJBcGlVc2VyIn0.Omhpujo6wzq9ITEsfBJmqcdxsv9LM-Q0qPpOHaPi9lk"
+}

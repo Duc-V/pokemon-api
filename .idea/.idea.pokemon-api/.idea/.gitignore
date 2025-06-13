@@ -1,13 +1,23 @@
-﻿# Default ignored files
-/shelf/
-/workspace.xml
-# Rider ignored files
-/contentModel.xml
-/.idea.pokemon-api.iml
-/modules.xml
-/projectSettingsUpdater.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+﻿# Ignore .NET build artifacts
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.cache
+*.dbmdl
+*.pdb
+*.log
+*.tlog
+*.tmp
+*.csproj.user
+*.vcxproj.user
+
+# Ignore generated files
+*.g.cs
+*.g.props
+*.g.targets
+*.editorconfig
+*.dgpspec.json
