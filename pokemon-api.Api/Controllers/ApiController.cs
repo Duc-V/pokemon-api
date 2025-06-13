@@ -6,7 +6,7 @@ using pokemon_api.Api.Common.Http;
 
 namespace pokemon_api.Api.Controllers;
 
-[Authorize]
+// [Authorize]
 public class ApiController: ControllerBase
 {
     protected IActionResult Problem(List<Error> errors)
