@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using pokemon_api.Application.Common.Interfaces.Authentication;
-using pokemon_api.Domain.Entities;
+using pokemon_api.Domain.User;
 
 namespace pokemon_api.Infrastructure.Authentication;
 

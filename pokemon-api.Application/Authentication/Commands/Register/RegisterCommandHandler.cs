@@ -4,7 +4,7 @@ using pokemon_api.Application.Authentication.Common;
 using pokemon_api.Application.Common.Interfaces.Authentication;
 using pokemon_api.Application.Common.Interfaces.Persistence;
 using pokemon_api.Domain.Common.Errors;
-using pokemon_api.Domain.Entities;
+using pokemon_api.Domain.User;
 
 namespace pokemon_api.Application.Authentication.Commands.Register;
 
@@ -24,17 +24,17 @@ public class RegisterCommandHandler: // Inherit IRequest handler, handle Registe
     public async Task<ErrorOr<AuthenticationResult>> Handle(RegisterCommand command, CancellationToken cancellationToken)
     {
         await Task.CompletedTask;
-        if (_userRepository.GetUserByEmail(command.Email) != null)
+        if (_userRepository.GetUserByEmail(command.Email) is not null)
         {
             return Errors.User.DuplicatedEmail;
         }
         // Create a user
-        var user = new User {
-            FirstName = command.FirstName,
-            LastName = command.LastName,
-            Email = command.Email,
-            Password = command.Password, 
-        };
+        var user = User.Create(
+            command.FirstName, 
+            command.LastName, 
+            command.Email, 
+            command.Password);
+
         
         _userRepository.AddUser(user);
         // Create Jwt token

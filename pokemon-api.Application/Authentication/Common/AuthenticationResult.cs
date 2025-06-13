@@ -1,4 +1,5 @@
-﻿using pokemon_api.Domain.Entities;
+﻿
+using pokemon_api.Domain.User;
 
 namespace pokemon_api.Application.Authentication.Common;
 

@@ -1,5 +1,5 @@
 ﻿using pokemon_api.Application.Common.Interfaces.Persistence;
-using pokemon_api.Domain.Entities;
+using pokemon_api.Domain.User;
 
 namespace pokemon_api.Infrastructure.Persistence;
 
